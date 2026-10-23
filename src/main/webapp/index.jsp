@@ -7,7 +7,7 @@ html
 
 <body>
     <h1>Instagram</h1>
-    <h3>3.0.0</h3>
+    <h3>4.0.0</h3>
     <hr>
 
     <h2>HOME</h2>
